@@ -1,1 +1,1 @@
-sudo ./build/hl_mai_lab_2 --host=localhost --port=3306 --login=stud --password=stud --database=stud
+sudo ./build/hl_mai_lab_2 --host=localhost --port=6033 --login=stud --password=stud --database=stud
